@@ -1,10 +1,12 @@
-name: "Yay internet!"
+name: "website!"
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"                         
-      href: about.html                    
+    - text: "Home"                         
+      href: index.html
+    - text: "Resume"                         
+      href: resume.html                    
     - text: "Dashboard"                        
       href: dashboard.html  
     - icon: fa-envelope fa-lg
