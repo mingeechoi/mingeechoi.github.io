@@ -1,0 +1,17 @@
+---
+title: "Homework 4"
+output: 
+  html_document:
+    toc: true                
+    toc_float: true        
+---
+
+### Submission for Homework 4
+
+This is my first R website. 
+![](images/duck.jpg)
+
+You can find my resume and dashboard here:
+
+* [Resume](resume.html)
+* [Dashboard](dashboard.html)
